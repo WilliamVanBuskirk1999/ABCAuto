@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CEF16C08-9993-4B3E-BDA6-1FF4C97BE330}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ABCAutoMotive</RootNamespace>
+    <AssemblyName>ABCAutoMotive</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MdiTabControl, Version=1.1.3159.34934, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MdiTabControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddResource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddResource.Designer.cs">
+      <DependentUpon>AddResource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckInResource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckInResource.Designer.cs">
+      <DependentUpon>CheckInResource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckoutResource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckoutResource.Designer.cs">
+      <DependentUpon>CheckoutResource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MakePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MakePayment.Designer.cs">
+      <DependentUpon>MakePayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyResourceStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyResourceStatus.Designer.cs">
+      <DependentUpon>ModifyResourceStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OverdueChargesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OverdueChargesReport.Designer.cs">
+      <DependentUpon>OverdueChargesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReserveResource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReserveResource.Designer.cs">
+      <DependentUpon>ReserveResource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentAccountInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentAccountInfo.Designer.cs">
+      <DependentUpon>StudentAccountInfo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddResource.resx">
+      <DependentUpon>AddResource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckInResource.resx">
+      <DependentUpon>CheckInResource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckoutResource.resx">
+      <DependentUpon>CheckoutResource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MakePayment.resx">
+      <DependentUpon>MakePayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyResourceStatus.resx">
+      <DependentUpon>ModifyResourceStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OverdueChargesReport.resx">
+      <DependentUpon>OverdueChargesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReserveResource.resx">
+      <DependentUpon>ReserveResource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StudentAccountInfo.resx">
+      <DependentUpon>StudentAccountInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{8e3338e2-8114-4cbb-98e5-ab5efa36aafd}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{2bc2e9e2-38cc-4383-b648-c4dfc3dc2f43}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Types\Types.csproj">
+      <Project>{9b9d255e-a582-4c0d-89e9-a0705444e464}</Project>
+      <Name>Types</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ABC Auto Motive.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

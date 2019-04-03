@@ -1,0 +1,18 @@
+C:\Users\billy\source\repos\ABCAutoMotive\Types\bin\Debug\Types.dll
+C:\Users\billy\source\repos\ABCAutoMotive\Types\bin\Debug\Types.pdb
+C:\Users\billy\source\repos\ABCAutoMotive\Types\obj\Debug\Types.csprojAssemblyReference.cache
+C:\Users\billy\source\repos\ABCAutoMotive\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\billy\source\repos\ABCAutoMotive\Types\obj\Debug\Types.dll
+C:\Users\billy\source\repos\ABCAutoMotive\Types\obj\Debug\Types.pdb
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\bin\Debug\Types.dll
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\bin\Debug\Types.pdb
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\obj\Debug\Types.dll
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\obj\Debug\Types.pdb
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\obj\Debug\Types.csprojAssemblyReference.cache
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\bin\Debug\Types.dll
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\bin\Debug\Types.pdb
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\obj\Debug\Types.csprojAssemblyReference.cache
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\obj\Debug\Types.dll
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\Types\obj\Debug\Types.pdb

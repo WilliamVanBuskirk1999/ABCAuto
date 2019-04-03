@@ -1,0 +1,42 @@
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\bin\Debug\SQLLayer.dll
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\bin\Debug\SQLLayer.pdb
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\bin\Debug\DataAccess.dll
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\bin\Debug\Types.dll
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\bin\Debug\DataAccess.pdb
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\bin\Debug\DataAccess.dll.config
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\bin\Debug\Types.pdb
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.csprojAssemblyReference.cache
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.csproj.CoreCompileInputs.cache
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.csproj.CopyComplete
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.dll
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.pdb
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\bin\Debug\Model.dll
+C:\Users\billy\source\repos\ABCAutoMotive\SQLLayer\bin\Debug\Model.pdb
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\SQLLayer.dll
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\SQLLayer.pdb
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\DataAccess.dll
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\Model.dll
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\Types.dll
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\DataAccess.pdb
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\DataAccess.dll.config
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\Model.pdb
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\Types.pdb
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.csprojAssemblyReference.cache
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.csproj.CoreCompileInputs.cache
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.csproj.CopyComplete
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.dll
+C:\Users\billy\Documents\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.pdb
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\SQLLayer.dll
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\SQLLayer.pdb
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\DataAccess.dll
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\Model.dll
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\Types.dll
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\DataAccess.pdb
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\DataAccess.dll.config
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\Model.pdb
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\bin\Debug\Types.pdb
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.csprojAssemblyReference.cache
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.csproj.CoreCompileInputs.cache
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.csproj.CopyComplete
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.dll
+C:\Users\billy\Desktop\Year 2\Year 2\Semester 1 Year 2\N Tier\Project\ABCAutoMotive\ABCAutoMotive\SQLLayer\obj\Debug\SQLLayer.pdb
